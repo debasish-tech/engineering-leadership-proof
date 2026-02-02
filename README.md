@@ -1,6 +1,6 @@
 # Engineering Leadership Proof
 
-A working library of frameworks, systems, and case studies from 22+ years of building and scaling engineering organizations.
+A working library of frameworks, systems, and case studies from 15+ years of building and scaling engineering organizations.
 
 This is not a resume. It is an operating system. It shows how I think, how I decide, how I run teams, and how I deliver results.
 
